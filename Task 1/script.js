@@ -24,4 +24,4 @@ form.addEventListener("submit", (event) => {
 });
 
 
-//ready for github
+//ready for github arba ne
