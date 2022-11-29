@@ -1,0 +1,57 @@
+/* Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+/* Mobile first */
+.wrapper {
+  min-height: 100vh;
+  min-width: calc(100vw - (100vw - 100%));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container h1 {
+  margin-top: 50px;
+  color: #333;
+}
+           
+/* nuo cia keista mano------------------------------------------ */
+#output {
+  font-size: 1.2rem;
+  padding: 50px;
+}  
+
+li {
+  padding: 50px;
+  font-size: 2rem;
+  border: 1px solid brown;
+}
+
+ul {
+  font-style: italic;
+  border: 2px yellowgreen solid;
+  border-radius: 20%;
+  box-shadow: 5px 10px #888888;
+}                                   
+/* su CSS atsimenam bajeriu */
+
+@media screen and (max-width: 1000px) {   
+  #output {
+      background-color: rgb(166, 255, 0); 
+      font-size: 0.5rem;
+    }  
+  }  
+  /* akiu gadinimas bet response! */
