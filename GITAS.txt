@@ -1,0 +1,11 @@
+git init
+
+$ git remote add origin https://github.com/munis4850/JS-EGZAM-FINAL-2022-11-Modestas-Vigi41XXXXXXXXXXXXXX.git   (paemiau is gito per web)
+
+$ git status   (pasitikrint ka mato)
+
+ $ git commit -m "final tasks" (pastaba kabutese)
+
+$ git push
+Everything up-to-date   (valio)
+

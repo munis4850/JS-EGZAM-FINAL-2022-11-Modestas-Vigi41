@@ -27,9 +27,9 @@ function outputExternal(data) {
   });
   document.querySelector('#output').innerHTML = output;
 }
-ATENCIONE: jei netenkina sitoks sprendimas, apacioje kitaip, bet ten jau su pagalba, nes paskui susigriebiau gal uzduotis paveiksliuko NodeIterator, nors ten abstraktu. Apatine siektiek su pagalba tai nieko nebandysiu apgaudineti. 
+// ATENCIONE: jei netenkina sitoks sprendimas, apacioje kitaip, bet ten jau su pagalba, nes paskui susigriebiau gal uzduotis paveiksliuko NodeIterator, nors ten abstraktu. Apatine siektiek su pagalba tai nieko nebandysiu apgaudineti. 
 
-//ready for github
+
 
 
 // const output = document.querySelector('#output');
